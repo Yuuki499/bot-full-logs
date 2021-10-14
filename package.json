@@ -1,0 +1,16 @@
+{
+  "name": "bot-logs",
+  "version": "1.0.0",
+  "description": "Bot logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Pani Kaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.2.0",
+    "quick.db": "^7.1.3"
+  }
+}
