@@ -1,8 +1,6 @@
 {
-"Token": "Token do seu bot",
-"Id_logs": "Id da webhook",
-"Web_token": "Token da webhook",
-"prefix": ""
-
-
+    "Token": "Token do seu bot",
+    "Id_logs": "Id da webhook",
+    "Web_token": "Token da webhook",
+    "prefix": ""
 }
